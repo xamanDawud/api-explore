@@ -1,0 +1,1 @@
+let client = { id: 23, name: "client-1", ip: 1245235, job: "Manager" };
