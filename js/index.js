@@ -16,6 +16,5 @@ function createAndGetValue(data) {
 function getData2(data) {
     for (const post of data) {
         createAndGetValue(post.name);
-        createAndGetValue(post.id);
     }
 }
